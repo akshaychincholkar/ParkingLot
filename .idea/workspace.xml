@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ae0b44e-595d-4076-a59b-b2c675c1a992" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/Parking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/entities/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/entities/Receipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/entities/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/entities/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/entities/vehicles/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/entities/vehicles/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/entities/vehicles/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/exceptions/NoPositionFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/models/FeeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/models/impl/AirportFeeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/models/impl/MallFeeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/models/impl/StadiumFeeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ParkingFeeModelConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sahaj/parkinglot/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2P1ZOo0HQz0qBqDnieEoTpWdjZ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sahaj.parkinglot.exceptions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AppTest.verifyTestsForAllVehiclesForAirportModel">
+    <configuration name="com.sahaj.parkinglot.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sahaj.parkinglot.App" />
+      <module name="ParkingLot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sahaj.parkinglot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.verifyTestsForAllVehiclesForAirportModel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ParkingLot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sahaj.parkinglot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sahaj.parkinglot" />
+      <option name="MAIN_CLASS_NAME" value="com.sahaj.parkinglot.AppTest" />
+      <option name="METHOD_NAME" value="verifyTestsForAllVehiclesForAirportModel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.verifyTestsForAllVehiclesForMallModel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ParkingLot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sahaj.parkinglot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sahaj.parkinglot" />
+      <option name="MAIN_CLASS_NAME" value="com.sahaj.parkinglot.AppTest" />
+      <option name="METHOD_NAME" value="verifyTestsForAllVehiclesForMallModel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.verifyTestsForAllVehiclesForMallModelv2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ParkingLot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sahaj.parkinglot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sahaj.parkinglot" />
+      <option name="MAIN_CLASS_NAME" value="com.sahaj.parkinglot.AppTest" />
+      <option name="METHOD_NAME" value="verifyTestsForAllVehiclesForMallModelv2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.verifyTestsForAllVehiclesForStadiumModel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ParkingLot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sahaj.parkinglot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sahaj.parkinglot" />
+      <option name="MAIN_CLASS_NAME" value="com.sahaj.parkinglot.AppTest" />
+      <option name="METHOD_NAME" value="verifyTestsForAllVehiclesForStadiumModel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.verifyTestsForAllVehiclesForAirportModel" />
+        <item itemvalue="JUnit.AppTest.verifyTestsForAllVehiclesForStadiumModel" />
+        <item itemvalue="JUnit.AppTest.verifyTestsForAllVehiclesForMallModelv2" />
+        <item itemvalue="JUnit.AppTest.verifyTestsForAllVehiclesForMallModel" />
+        <item itemvalue="Application.com.sahaj.parkinglot.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ae0b44e-595d-4076-a59b-b2c675c1a992" name="Changes" comment="" />
+      <created>1682626521362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682626521362</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/models/impl/AirportFeeModel.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sahaj/parkinglot/models/impl/AirportFeeModel.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="lot.positions" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
